@@ -52,6 +52,7 @@
                     customerManager.Delete(customer3);
                     Console.WriteLine("---------------");
 
+
                 }
                 else if (num == 3)
                 {

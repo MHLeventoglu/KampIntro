@@ -5,7 +5,7 @@ namespace Metotlar
 {
     internal class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Urun urun1 = new Urun();
             urun1.Adi = "Elma";
